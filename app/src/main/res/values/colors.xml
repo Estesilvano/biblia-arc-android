@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="dark_surface">#FF1A1A2E</color>
-    <color name="dark_on_surface">#FFE8E8E8</color>
-    <color name="dark_primary">#FF8B5CF6</color>
-    <color name="sepia_background">#FFF5E6C8</color>
-    <color name="sepia_on_background">#FF3E2723</color>
-    <color name="light_background">#FFFFFAF5</color>
-    <color name="light_on_background">#FF1A1A1A</color>
+    <color name="dark_bg">#0F0F1A</color>
+    <color name="dark_surface">#1A1A2E</color>
+    <color name="dark_text">#E0E0E0</color>
+    <color name="dark_primary">#A78BFA</color>
+    <color name="dark_onPrimary">#1A1A2E</color>
+    <color name="dark_secondary">#34D399</color>
+
+    <color name="sepia_bg">#F5E6C8</color>
+    <color name="sepia_surface">#EDD9B0</color>
+    <color name="sepia_text">#3E2723</color>
+    <color name="sepia_primary">#8D6E63</color>
+    <color name="sepia_onPrimary">#FFFFFF</color>
+    <color name="sepia_secondary">#6D4C41</color>
+
+    <color name="light_bg">#FAFAFA</color>
+    <color name="light_surface">#FFFFFF</color>
+    <color name="light_text">#212121</color>
+    <color name="light_primary">#5B21B6</color>
+    <color name="light_onPrimary">#FFFFFF</color>
+    <color name="light_secondary">#059669</color>
 </resources>

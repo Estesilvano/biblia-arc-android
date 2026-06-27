@@ -1,8 +1,8 @@
 package com.example.biblia
 
 import android.app.Application
-import com.example.biblia.data.database.AppDatabase
+import com.example.biblia.data.AppDatabase
 
 class BibliaApp : Application() {
-    val database: AppDatabase by lazy { AppDatabase.getInstance(this) }
+    val db: AppDatabase by lazy { AppDatabase.getInstance(this) }
 }

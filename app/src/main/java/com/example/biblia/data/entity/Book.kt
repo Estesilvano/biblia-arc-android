@@ -1,4 +1,4 @@
-package com.example.biblia.data.database.entity
+package com.example.biblia.data.entity
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity
@@ -9,6 +9,5 @@ data class Book(
     @PrimaryKey val id: Int,
     val name: String,
     val abbreviation: String,
-    val testament: Int,
-    @ColumnInfo(name = "book_order") val bookOrder: Int
+    val testament: Int
 )

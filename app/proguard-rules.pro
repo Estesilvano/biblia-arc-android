@@ -1,3 +1,2 @@
-# Add project specific ProGuard rules here.
--keepattributes *Annotation*
--keep class com.example.biblia.data.database.entity.** { *; }
+#Add project specific ProGuard rules here.
+-keep class com.example.biblia.data.entity.** { *; }
