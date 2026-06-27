@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bíblia ARC</string>
+    <string name="app_subtitle">Almeida Revista e Corrigida</string>
+    <string name="old_testament">Antigo Testamento</string>
+    <string name="new_testament">Novo Testamento</string>
+    <string name="search">Pesquisar</string>
+    <string name="settings">Configurações</string>
+    <string name="font_size">Tamanho da fonte</string>
+    <string name="theme_mode">Modo do tema</string>
+    <string name="light">Claro</string>
+    <string name="dark">Escuro</string>
+    <string name="sepia">Sépia</string>
+    <string name="system">Sistema</string>
+    <string name="about">Sobre</string>
+    <string name="version">Versão 1.0</string>
+    <string name="search_hint">Buscar na Bíblia…</string>
+    <string name="no_results">Nenhum resultado encontrado</string>
+    <string name="bookmarks">Favoritos</string>
+    <string name="commentary">Comentário</string>
+    <string name="strongs">Strong</string>
+    <string name="text_size">Tamanho do texto</string>
+    <string name="line_spacing">Espaçamento entre linhas</string>
+    <string name="reading">Leitura</string>
+    <string name="home">Início</string>
+</resources>
